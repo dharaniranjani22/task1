@@ -1,0 +1,134 @@
+body{
+    height:1000px;
+    width:100%;
+   
+
+}
+.top{
+    height:95px;
+    width: 100%;
+   
+}
+ul{
+    list-style-type: none;
+    margin-left: 500px;
+}
+li {
+    float: left;
+  }
+  li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    margin-top: 25px;
+    color: black;
+    margin-left: 23px;
+    
+  }
+  li a:hover {
+    color: #9c0c0c;
+    cursor: pointer;
+  }
+.girl{
+    height: 710px;
+    border-radius: 809px;
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 350px;
+    
+}
+.text{
+    height: 406px;
+    width: 48%;
+    margin-top: -189px;
+    margin-left: 50px;
+    position: relative;
+    background-color: aliceblue;
+}
+
+.text p{
+   font-size: 20px;
+   padding-left:20px; 
+}
+.text li{
+    font-size: 20px;
+    padding-left:20px; 
+    padding-bottom: 100px; 
+    cursor: pointer;
+    list-style-type: none;
+    margin-top: -96px;
+    padding-left: 125px;
+    text-decoration:underline;
+    font-style: italic;
+}
+.text li a:hover {
+    color: #9c0c0c;
+  }
+  .button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: -141px;
+    margin-top: 42px;
+    cursor: pointer;
+  }
+  .button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.39);
+  }
+  .round{
+    height: 250px;
+    width: 20%;
+    border-radius: 150px;
+    
+    position: relative;
+    background-color: blue;
+    margin-left: 897px;
+    margin-top: -411.1px;
+}
+.round1{
+    height: 178px;
+    width: 15%;
+    border-radius: 150px;
+    
+    position: relative;
+    background-color: blue;
+    margin-left: 719px;
+    margin-top: -4.1px;
+}
+.demo{
+    height: 127px;
+    width: 11%;
+    border-radius: 150px;
+    
+    position: relative;
+    background-color:white;
+    margin-left: 744px;
+    margin-top: -150.1px;
+}
+.round3{
+    height: 300px;
+    width: 25%;
+    border-radius: 150px;
+    
+    position: relative;
+    background-color: blue;
+    margin-left: 126px;
+    margin-top: -826.1px;
+    /* position: relative; */
+}
+.demo1{
+    height: 198px;
+    width: 16%;
+    border-radius: 150px;
+   
+    position: relative;
+    background-color: white;
+    margin-left: 180px;
+    margin-top: -250.1px;
+}
+
